@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<header>
- <title>Gundam Outpost Ecommerce Responsive Website</title>
-</header>
+# Gundam Outpost Ecommerce Responsive Website
+A ecommerce responsive website for my training for react native job
 
-<body>
- <div>
-  <h2>Description</h2>
-  <p>Ecommerce Front-end website that sells gundam with responsiveness feature</p>
- </div>
-</body>
-
+## Description
+Ecommerce Front-end website that sells gundam with responsiveness feature
